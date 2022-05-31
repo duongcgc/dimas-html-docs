@@ -232,8 +232,8 @@ h4 {
 	font-weight: bold;
 }
 
-.list-child {
-	padding-left: 10px;	
+.sidebar .nav-pills > li > .list-child > li > a {
+	padding-left: 30px;
 }
 
 .list-child>li.active>a {
